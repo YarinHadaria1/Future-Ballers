@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://yarin100:Pp0506792469@project.awqmt.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecretToken": "yarinsecrettoken050",
+  "githubClientId": "ee80253cebcdb4b906ac",
+  "githubSecret": "8adf5d1f5371e97a4c6c0f216a2a25d0662d46d5"
+}
